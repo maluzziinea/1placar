@@ -1,0 +1,10 @@
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\bin\Debug\placar.exe.config
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\bin\Debug\placar.exe
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\bin\Debug\placar.pdb
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.csproj.AssemblyReference.cache
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.Form1.resources
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.Properties.Resources.resources
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.csproj.GenerateResource.cache
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.csproj.CoreCompileInputs.cache
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.exe
+C:\Users\maria.lpbertozzi\source\repos\placar\placar\obj\Debug\placar.pdb
